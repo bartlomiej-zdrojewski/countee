@@ -1,0 +1,2 @@
+# countee
+Automated accountant
